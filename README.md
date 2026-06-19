@@ -100,39 +100,6 @@ DCT
 MFCC Features
 ```
 
----
-
-## Repository Structure
-
-```text
-.
-├── paper/
-│   ├── original_paper.pdf
-│   └── persian_translation.pdf
-│
-├── equations/
-│   ├── mfcc_derivations.md
-│   ├── ann_formulations.md
-│   └── extracted_equations.pdf
-│
-├── datasets/
-│
-├── src/
-│   ├── preprocessing/
-│   ├── augmentation/
-│   ├── feature_extraction/
-│   ├── models/
-│   └── evaluation/
-│
-├── notebooks/
-│
-├── figures/
-│
-└── README.md
-```
-
----
-
 ## Implemented Equations
 
 The repository extracts and implements the main equations used in the paper, including:
